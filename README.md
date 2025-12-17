@@ -79,4 +79,4 @@ Q30. What patterns emerge through drill-down analysis?
 
 📌 Screenshots / Demos :
 ---
-Dashboard Link : 
+Dashboard Link : https://github.com/Chaitanya-kumar13/Netflix-Dahboard/blob/main/Screenshot%202025-12-17%20131620.png
